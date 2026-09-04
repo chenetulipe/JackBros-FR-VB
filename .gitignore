@@ -1,9 +1,10 @@
-# ROM files & binary patches (legal & clean repository)
+# ROMs et patches binaires (préservation légale)
 *.vb
 *.bin
 *.ips
+*.xdelta
 
-# Logs & temp
+# Logs et caches
 *.log
 logs/
 __pycache__/
@@ -12,7 +13,7 @@ __pycache__/
 venv/
 .env
 
-# OS / Editor
+# OS / Éditeurs
 .DS_Store
 Thumbs.db
 .vscode/
