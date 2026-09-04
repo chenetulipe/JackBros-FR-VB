@@ -30,7 +30,7 @@ Merci aux équipes d'**Atlus** pour la création de ce jeu culte en 1995 sur Vir
 
 Ce projet s'appuie sur les travaux historiques de la communauté romhacking Virtual Boy :
 
-- **KR155E** ([vr32.de](https://www.vr32.de)) : Auteur de la traduction allemande *Jack Bros. German Translation Hack v1.00* (2005).
+- **KR155E** : Auteur de la traduction allemande *Jack Bros. German Translation Hack v1.00* (2005).
 - **Max1323** : Auteur de la traduction espagnole *Jack Bros. Traducción al Español Ver. 1.0* (14/12/2019).
 - **Parasyte** : Pour son travail pionnier de reverse-engineering et l'intégration du Debug Mode sur Jack Bros.
 - La communauté **[Planet Virtual Boy](https://www.planetvb.com/)** pour la documentation technique sur la console et ses composants.
