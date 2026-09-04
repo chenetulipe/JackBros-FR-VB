@@ -1,19 +1,20 @@
 <div align="center">
 
-# Jack Bros. — Traduction Française
+# Jack Bros. (Virtual Boy) - Patch Français
 
-**Patch de traduction intégrale en français pour la version américaine de *Jack Bros.* sur Nintendo Virtual Boy (1995, Atlus)**
+**Traduction française intégrale de *Jack Bros.* sur Nintendo Virtual Boy (Atlus, 1995)**
 
 <br/>
 
-<a href="https://fr.wikipedia.org/wiki/Virtual_Boy"><img src="https://img.shields.io/badge/Nintendo_Virtual_Boy-E60012?style=for-the-badge&logo=nintendo&logoColor=white" alt="Plateforme" /></a>
-<img src="https://img.shields.io/badge/Statut-VERSION_FINALE_100%25-10b981?style=for-the-badge" alt="Statut" />
-<img src="https://img.shields.io/badge/Développeur-ATLUS-005cb9?style=for-the-badge" alt="Développeur" />
-<img src="https://img.shields.io/badge/Licence-CC_BY--NC--SA_4.0-lightgrey?style=for-the-badge" alt="Licence" />
+<a href="https://fr.wikipedia.org/wiki/Virtual_Boy"><img src="https://img.shields.io/badge/Virtual_Boy-red?style=flat-square&logo=nintendo&logoColor=white" alt="Plateforme" /></a>
+<img src="https://img.shields.io/badge/Version-1.0_Finale-emerald?style=flat-square" alt="Version" />
+<img src="https://img.shields.io/badge/Statut-100%25_Jouable-blue?style=flat-square" alt="Statut" />
+<a href="https://github.com/chenetulipe/JackBros-FR-VB/releases"><img src="https://img.shields.io/badge/Releases-Télécharger_le_patch-purple?style=flat-square" alt="Releases" /></a>
 
 <br/><br/>
 
-**Le tout premier spin-off de la saga culte *Megami Tensei*, intégralement jouable en français pour la première fois.**
+Premier spin-off officiel de la série *Megami Tensei*, mettant en vedette Jack Frost, Jack Lantern et Jack Skelton.  
+Le jeu est désormais entièrement jouable en français.
 
 </div>
 
@@ -21,130 +22,105 @@
 
 ---
 
-## 📖 Présentation du Jeu
+## Présentation
 
-Sorti en **1995** par **ATLUS**, *Jack Bros.* (*Jack Bros. no Kieta Mahishō*) est l'un des jeux les plus acclamés et recherchés de la ludothèque Virtual Boy. Mettant en scène les mascottes emblématiques de la franchise *Shin Megami Tensei* — **Jack Frost**, **Jack Lantern** et **Jack Skelton** — le titre propose un jeu d'action en vue du dessus haletant.
+Sorti à l'automne 1995 par **Atlus**, *Jack Bros.* est l'un des rares jeux d'action en vue du dessus du Virtual Boy. 
 
-Les frères Jack sont venus visiter le monde des humains pour la nuit d'Halloween. Mais à minuit, le portail menant au monde des Fées se refermera à jamais ! Guidés par la fée **Pixie**, traversez 6 mondes labyrinthiques truffés de pièges, d'ennemis et de boss redoutables pour regagner votre foyer à temps.
+Les trois frères Jack ont profité d'Halloween pour visiter le monde des humains. Le problème : ils ont jusqu'à minuit pour retrouver le portail féerique, sans quoi ils resteront bloqués pour toujours. Guidés par la fée Pixie, ils doivent traverser 6 mondes remplis de pièges, d'ennemis et de boss.
 
-Jamais localisé dans les pays francophones à l'époque, ce projet propose une **traduction intégrale et soignée**, fidèle à l'humour et à l'esprit d'origine d'Atlus.
+Le jeu n'était sorti qu'au Japon et aux États-Unis. Ce patch traduit l'ensemble des textes en français : cinématiques, dialogues des boss, indices des fées et menus.
+
+<br/>
 
 ---
 
-## 📸 Aperçu en Jeu (Captures d'Écran)
+## Captures d'écran
 
-| Écran Titre | Nuit d'Halloween |
+<br/>
+
+| Écran-titre | Introduction |
 |:---:|:---:|
-| <img src="assets/screenshots/01_ecran_titre.png" width="380" alt="Écran titre traduit en français" /> | <img src="assets/screenshots/02_intro_halloween.png" width="380" alt="Introduction d'Halloween" /> |
+| <img src="assets/screenshots/01_ecran_titre.png" width="370" alt="Écran-titre en français" /> | <img src="assets/screenshots/02_intro_halloween.png" width="370" alt="Introduction d'Halloween" /> |
 
-| Rencontre avec Pixie | Forêt des Fées (Monde 1) |
+<br/>
+
+| Dialogue avec Pixie | Monde 1 (Forêt des Fées) |
 |:---:|:---:|
-| <img src="assets/screenshots/03_dialogue_pixie.png" width="380" alt="Dialogue avec Pixie" /> | <img src="assets/screenshots/04_monde_foret_des_fees.png" width="380" alt="Entrée du Monde 1" /> |
+| <img src="assets/screenshots/03_dialogue_pixie.png" width="370" alt="Dialogue avec Pixie" /> | <img src="assets/screenshots/04_monde_foret_des_fees.png" width="370" alt="Forêt des Fées" /> |
 
-| Astuces de Gameplay | Rencontre avec les Monstres |
+<br/>
+
+| Indice de jeu (Clés) | Astuce en donjon (Slime) |
 |:---:|:---:|
-| <img src="assets/screenshots/05_in_game_cle.png" width="380" alt="Dialogue in-game sur les clés" /> | <img src="assets/screenshots/06_in_game_slime.png" width="380" alt="Dialogue in-game sur le monstre Slime" /> |
+| <img src="assets/screenshots/05_in_game_cle.png" width="370" alt="Indice en donjon" /> | <img src="assets/screenshots/06_in_game_slime.png" width="370" alt="Astuce en jeu" /> |
+
+<br/>
 
 ---
 
-## 📊 Avancement de la Traduction
+## Comment appliquer le patch
 
-| Catégorie | État | Détails |
-|:---|:---:|:---|
-| **Histoire & Cinématiques** | **100%** | Introduction d'Halloween, cinématiques de mondes et épilogues traduits |
-| **Menus & Textes Système** | **100%** | Écran titre, sélection des personnages, options et crédits |
-| **Dialogues In-Game (Fées & PNJ)** | **100%** | 142 répliques complètes vérifiées et testées |
-| **Dialogues des Boss** | **100%** | Skelton, Morgan, Furin, Cyclops et Belzoff intégralement traduits |
-| **Correction des Glyphes** | **100%** | Bug du dièse `#` résolu avec adaptation de l'espacement |
-| **Stabilité de la ROM** | **100%** | Aucun débordement mémoire (`slot_size`), zéro glitch sonore |
+Vous devez posséder une copie légale de la ROM américaine originale :  
+`Jack Bros. (USA).vb` (taille exacte : 1 048 576 octets).
 
----
+<br/>
 
-## 🛠️ Comment Compiler la ROM Traduite
+### Option A : Via le patch xdelta (le plus simple)
 
-Pour des raisons légales évidentes, **aucune ROM commerciale n'est fournie dans ce dépôt**. Vous devez disposer de votre propre copie de la ROM originale américaine :  
-`Jack Bros. (USA).vb` (Taille exacte : `1 048 576 octets`).
+1. Rendez-vous dans l'onglet **[Releases](https://github.com/chenetulipe/JackBros-FR-VB/releases)** de ce dépôt.
+2. Téléchargez le fichier de patch `JackBros_FR.xdelta`.
+3. Ouvrez un patcher en ligne (par exemple [Marc Robledo ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)).
+4. Sélectionnez votre ROM d'origine et le patch `.xdelta`.
+5. Sauvegardez votre fichier patché `Jack Bros (Fr).vb`.
 
-### Méthode 1 — Avec l'Outil Web Moderne (Recommandé)
+<br/>
 
-1. Double-cliquez simplement sur le fichier **`start.bat`** à la racine du projet.
-2. Le script vérifie les dépendances Python requises (`fastapi`, `uvicorn`, `pydantic`) et démarre le serveur.
-3. Votre navigateur s'ouvre automatiquement sur l'interface : **`http://127.0.0.1:8000`**
-4. Glissez-déposez votre fichier `Jack Bros. (USA).vb`.
-5. Cliquez sur **Compiler la ROM traduite [Jack Bros (Fr).vb]**.
-6. Votre ROM traduite et prête à jouer est générée instantanément !
+### Option B : Via l'outil de traduction inclus (Tool)
 
-### Méthode 2 — En Ligne de Commande (Python)
+Le dépôt contient un outil local avec interface web pour inspecter les dialogues et compiler la ROM directement :
 
-Si vous préférez la ligne de commande :
+1. Double-cliquez sur `start.bat` à la racine.
+2. Votre navigateur s'ouvre sur `http://127.0.0.1:8000`.
+3. Glissez votre ROM `Jack Bros. (USA).vb` dans l'interface.
+4. Cliquez sur **Compiler la ROM**.
 
-```bash
-# 1. Installer les dépendances légères
-pip install -r tool/requirements.txt
-
-# 2. Compiler via le moteur
-python -c "
-import sys; sys.path.insert(0, 'tool')
-from core_engine import encode_and_insert_text
-with open('Jack Bros. (USA).vb', 'rb') as f: rom = f.read()
-patched = encode_and_insert_text(rom, 'traduction/JackBros_FR.json', print)
-with open('Jack Bros (Fr).vb', 'wb') as f: f.write(patched)
-print('ROM compilee avec succes !')
-"
-```
+<br/>
 
 ---
 
-## 🎮 Comment Jouer
+## Comment jouer
 
-La ROM compilée `Jack Bros (Fr).vb` est compatible avec toutes les solutions d'émulation et le matériel d'origine :
+La ROM patchée fonctionne sur tous les émulateurs Virtual Boy actuels :
 
-1. **Sur PC (Windows / Linux / macOS)** :
-   - **[Mednafen](https://mednafen.github.io/)** (Recommandé) : L'émulateur le plus fidèle au matériel d'origine. Glissez simplement la ROM sur l'exécutable `mednafen.exe`.
-   - **[RetroArch](https://www.retroarch.com/)** avec le cœur **Beetle VB**.
-2. **En Réalité Virtuelle / Casques VR** :
-   - Compatible avec **Virtual Boy Go** (Meta Quest / PCVR) pour revivre la 3D stéréoscopique rouge d'origine dans des conditions optimales.
-3. **Sur Nintendo 3DS** :
-   - Via l'émulateur homebrew **Red-Viper** (effet 3D stéréoscopique de la 3DS parfait !).
-4. **Sur Vraie Console Virtual Boy** :
-   - 100% fonctionnel sur le matériel d'origine via cartouche flash (**FlashBoy Plus**, **Virtual Boy Pro**).
+- **Sur PC** : [Mednafen](https://mednafen.github.io/) (recommandé pour sa fidélité) ou **RetroArch** (core Beetle VB).
+- **Sur Nintendo 3DS** : avec l'émulateur homebrew **Red-Viper** (gestion de la 3D stéréoscopique de la console).
+- **En Réalité Virtuelle** : via **Virtual Boy Go** (Oculus Quest / PCVR).
+- **Sur vraie console Virtual Boy** : compatible avec les cartouches flash (FlashBoy Plus, Virtual Boy Pro).
+
+<br/>
 
 ---
 
-## 📁 Architecture du Dépôt
+## Contenu du projet
 
 ```text
 JackBros-FR-VB/
-├── start.bat                  # Lanceur rapide du Web Tool (double-clic)
-├── README.md                  # Présentation générale du projet
-├── DOCUMENTATION.md           # Documentation technique approfondie de la ROM
-├── CREDITS.md                 # Remerciements et crédits officiels
-├── assets/
-│   └── screenshots/           # Captures d'écran in-game de la version française
+├── start.bat                  # Lanceur de l'outil web local
+├── README.md                  # Présentation du projet
+├── DOCUMENTATION.md           # Notes techniques sur la ROM et le romhacking
+├── CREDITS.md                 # Remerciements et crédits
+├── assets/screenshots/        # Captures d'écran du jeu en français
 ├── traduction/
-│   └── JackBros_FR.json       # Les 142 répliques traduites (format JSON standard)
-└── tool/
-    ├── requirements.txt       # Dépendances Python minimales
-    ├── server.py              # Serveur local FastAPI (API REST)
-    ├── core_engine.py         # Moteur de réinjection textuelle et contrôle des bornes
-    └── dist/                  # Interface utilisateur Web (Glassmorphism, Tailwind CSS)
-        ├── index.html
-        ├── app.js
-        └── style.css
+│   └── JackBros_FR.json       # Fichier JSON contenant les 142 textes traduits
+└── tool/                      # Outil web local (Python / FastAPI / HTML)
 ```
 
----
-
-## 📚 Documentation & Reverse-Engineering
-
-Pour consulter l'étude complète de la cartouche (spécificités de l'architecture NEC V810, format des tuiles 2bpp du coprocesseur VIP, cartographie des polices et gestion des délimitations de pointeurs), lisez :  
-👉 **[DOCUMENTATION.md](./DOCUMENTATION.md)**
-
-Pour consulter l'ensemble des remerciements et contributeurs :  
-👉 **[CREDITS.md](./CREDITS.md)**
+<br/>
 
 ---
 
-<div align="center">
-  <sub>Projet libre et open-source développé par <b><a href="https://github.com/chenetulipe">chenetulipe</a></b>. Jack Bros. © 1995 ATLUS.</sub>
-</div>
+## Crédits & Remerciements
+
+- Projet réalisé par **[chenetulipe](https://github.com/chenetulipe)**.
+- Merci à **Atlus** pour le jeu original (1995).
+- Retrouvez tous les détails et remerciements dans le fichier **[CREDITS.md](./CREDITS.md)**.
