@@ -1,48 +1,43 @@
-# Crédits & Remerciements — Jack Bros. FR (Virtual Boy)
+# Crédits & Remerciements
 
-Projet de traduction française intégrale pour la version américaine de **Jack Bros.** (Virtual Boy, Atlus, 1995).
+Projet de traduction française pour **Jack Bros.** (Virtual Boy, 1995).
 
----
-
-## 🎮 Auteur du Projet & Romhacking
-
-- **[chenetulipe](https://github.com/chenetulipe)** :
-  - Rétro-ingénierie complète de la cartouche Virtual Boy (architecture NEC V810 & coprocesseur VIP).
-  - Cartographie des 142 pointeurs de textes, analyse des tables de saut et des délimitations mémoires.
-  - Résolution des spécificités d'encodage (séparation Font 1 / Font 2, contournement du bug du symbole `#`).
-  - Développement de la suite d'outils de traduction et de l'interface web dédiée.
-  - Traduction française, relecture contextuelle et tests intensifs in-game.
+<br/>
 
 ---
 
-## 🏛️ Développeurs Originaux — ATLUS (1995)
+## Traduction & Romhacking
 
-Un immense respect à l'équipe d'origine d'**ATLUS Co., Ltd.** pour avoir créé cette pépite singulière du catalogue Virtual Boy :
+- **[chenetulipe](https://github.com/chenetulipe)** : Rétro-ingénierie de la ROM, cartographie des textes, résolution du bug d'affichage du dièse, développement du tool et traduction française.
 
-- **Kazuma Kaneko** : Character designer historique de la franchise *Megami Tensei*, créateur des designs cultes de Jack Frost, Jack Lantern et Jack Skelton.
-- **Équipe de développement ATLUS R&D1** : Conception, programmation et bande-son inoubliable sur Virtual Boy.
-- **Équipe de localisation ATLUS USA (1995)** : Adaptation anglaise officielle qui a servi de texte source pour ce projet.
+<br/>
 
 ---
 
-## 🌍 Projets Antérieurs & Inspirations Romhacking
+## Atlus
 
-Ce projet s'inscrit dans la continuité des efforts de préservation et de traduction de la ludothèque Virtual Boy :
+Merci aux équipes d'**Atlus** pour la création du jeu en 1995 sur Virtual Boy :
 
-- **Traduction Espagnole de Jack Bros.** :
-  - Référence précieuse pour l'étude comparative des délimitations de pointeurs textuels et la validation du comportement de la pile mémoire sur émulateur.
-- **Traduction Allemande de Jack Bros. (2021)** :
-  - Travail pionnier ayant permis d'identifier les premières zones graphiques du HUD (`0xA851D` / `0xA8210`).
-- **Communauté Planet Virtual Boy (PVB)** :
-  - Documentation technique du processeur NEC V810, des registres d'affichage du Virtual Image Processor (VIP) et du protocole de communication des manettes.
-- **Développeurs d'émulateurs** :
-  - **Ryphecha & l'équipe Mednafen** : Pour l'émulateur de référence Virtual Boy le plus précis à ce jour.
-  - **David Tucker** (*Reality Boy*) et l'équipe *Red Dragon* pour leurs travaux historiques d'émulation.
+- **Kazuma Kaneko** pour le design des trois frères Jack (Jack Frost, Jack Lantern, Jack Skelton).
+- L'équipe de développement originale d'Atlus.
+- L'équipe de localisation d'Atlus USA pour la version américaine d'origine.
+
+<br/>
 
 ---
 
-## 📜 Licence & Avertissement Légal
+## Travaux antérieurs & Communauté
 
-Ce projet est une initiative bénévole et non-commerciale de fans pour les fans.  
-Aucune ROM originale ou fichier sous copyright n'est distribué dans ce dépôt.  
-Jack Bros., Jack Frost, Shin Megami Tensei et leurs logos respectifs sont des marques déposées de **ATLUS / SEGA**.
+- Les auteurs du **patch espagnol** et du **patch allemand** (2021) de Jack Bros., qui ont servi de points de repère pour l'analyse des offsets et des textes.
+- La communauté **Planet Virtual Boy** pour la documentation technique sur la console.
+- Les créateurs des émulateurs Virtual Boy, notamment **Mednafen** et **Red-Viper**.
+
+<br/>
+
+---
+
+## Avertissement légal
+
+Projet amateur réalisé bénévolement à des fins de préservation.  
+Aucune ROM sous copyright n'est fournie dans ce dépôt.  
+Jack Bros. et Shin Megami Tensei sont des marques déposées d'**Atlus / Sega**.
