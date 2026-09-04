@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Version-1.0_Finale-emerald?style=flat-square" alt="Version" />
 <img src="https://img.shields.io/badge/Statut-100%25_Jouable-blue?style=flat-square" alt="Statut" />
 <a href="https://github.com/chenetulipe/JackBros-FR-VB/releases"><img src="https://img.shields.io/badge/Releases-Télécharger_le_patch-purple?style=flat-square" alt="Releases" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/Licence-GPL--3.0-lightgrey?style=flat-square" alt="Licence" /></a>
 
 <br/><br/>
 
@@ -60,29 +61,46 @@ Le jeu n'était sorti qu'au Japon et aux États-Unis. Ce patch traduit l'ensembl
 
 ## Comment appliquer le patch
 
-Vous devez posséder une copie légale de la ROM américaine originale :  
-`Jack Bros. (USA).vb` (taille exacte : 1 048 576 octets).
+Pour des raisons légales, **aucune ROM n'est distribuée dans ce dépôt**.  
+Vous devez fournir votre propre dump de la ROM américaine d'origine.
 
 <br/>
 
-### Option A : Via le patch xdelta (le plus simple)
-
-1. Rendez-vous dans l'onglet **[Releases](https://github.com/chenetulipe/JackBros-FR-VB/releases)** de ce dépôt.
-2. Téléchargez le fichier de patch `JackBros_FR.xdelta`.
-3. Ouvrez un patcher en ligne (par exemple [Marc Robledo ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)).
-4. Sélectionnez votre ROM d'origine et le patch `.xdelta`.
-5. Sauvegardez votre fichier patché `Jack Bros (Fr).vb`.
+### Empreintes de la ROM originale attendue :
+- **Fichier** : `Jack Bros. (USA).vb` (ou `Jack Bros (U) [!].vb`)
+- **Taille** : `1 048 576 octets` (1.00 Mo)
+- **CRC32** : `A44DE03C`
+- **MD5** : `EE873C9969C15E92CA9A0F689C4CE5EA`
+- **SHA-1** : `0E086D7EF2BD8B97315196943FD0B71DA07AA8F1`
 
 <br/>
 
-### Option B : Via l'outil de traduction inclus (Tool)
+### Méthode 1 : Avec le Patcher Web inclus (recommandé)
 
-Le dépôt contient un outil local avec interface web pour inspecter les dialogues et compiler la ROM directement :
+Le dépôt intègre un patcher web local basé sur WebAssembly (xdelta3) :
+
+1. Téléchargez le patch `Jack Bros. (USA) [T-Fr v1.0 chenetulipe].xdelta` depuis l'onglet **[Releases](https://github.com/chenetulipe/JackBros-FR-VB/releases)**.
+2. Double-cliquez sur `patcher/lancer_patcher.bat`.
+3. Votre navigateur s'ouvre automatiquement sur le patcher local.
+4. Glissez votre ROM et le patch `.xdelta`, puis cliquez sur **Patcher**.
+5. Votre ROM traduite `Jack Bros (Fr).vb` est prête instantanément.
+
+Vous pouvez également utiliser un patcher en ligne standard comme [Marc Robledo Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/).
+
+<br/>
+
+### Méthode 2 : Avec l'outil de romhacking (Tool)
+
+Si vous souhaitez inspecter les dialogues en JSON ou recompiler la ROM depuis les sources :
 
 1. Double-cliquez sur `start.bat` à la racine.
-2. Votre navigateur s'ouvre sur `http://127.0.0.1:8000`.
-3. Glissez votre ROM `Jack Bros. (USA).vb` dans l'interface.
-4. Cliquez sur **Compiler la ROM**.
+2. Glissez votre ROM `Jack Bros. (USA).vb` dans l'interface web.
+3. Cliquez sur **Compiler la ROM**.
+
+<br/>
+
+> [!TIP]
+> En cas de problème ou de bug textuel en jeu, n'hésitez pas à ouvrir une **[Issue](https://github.com/chenetulipe/JackBros-FR-VB/issues)** sur le dépôt.
 
 <br/>
 
@@ -90,12 +108,12 @@ Le dépôt contient un outil local avec interface web pour inspecter les dialogu
 
 ## Comment jouer
 
-La ROM patchée fonctionne sur tous les émulateurs Virtual Boy actuels :
+La ROM patchée fonctionne sur l'ensemble des émulateurs actuels et sur console d'origine :
 
-- **Sur PC** : [Mednafen](https://mednafen.github.io/) (recommandé pour sa fidélité) ou **RetroArch** (core Beetle VB).
-- **Sur Nintendo 3DS** : avec l'émulateur homebrew **Red-Viper** (gestion de la 3D stéréoscopique de la console).
-- **En Réalité Virtuelle** : via **Virtual Boy Go** (Oculus Quest / PCVR).
-- **Sur vraie console Virtual Boy** : compatible avec les cartouches flash (FlashBoy Plus, Virtual Boy Pro).
+- **Sur PC** : [Mednafen](https://mednafen.github.io/) (recommandé pour sa grande fidélité) ou [RetroArch](https://www.retroarch.com/) avec le core [Beetle VB](https://docs.libretro.com/library/beetle_vb/).
+- **Sur Nintendo 3DS** : avec l'émulateur homebrew [Red-Viper](https://github.com/Floogle/red-viper) (qui exploite l'écran 3D stéréoscopique de la console).
+- **En Réalité Virtuelle** : via [Virtual Boy Go](https://github.com/skyfloogle/virtualboygo) (Meta Quest / PCVR).
+- **Sur vraie console Virtual Boy** : compatible sur le matériel d'origine via cartouche flash ([FlashBoy Plus](https://www.planetvb.com/), Virtual Boy Pro).
 
 <br/>
 
@@ -105,14 +123,18 @@ La ROM patchée fonctionne sur tous les émulateurs Virtual Boy actuels :
 
 ```text
 JackBros-FR-VB/
-├── start.bat                  # Lanceur de l'outil web local
+├── start.bat                  # Lanceur de l'outil de traduction local
+├── LICENSE                    # Licence GNU General Public License v3.0
 ├── README.md                  # Présentation du projet
-├── DOCUMENTATION.md           # Notes techniques sur la ROM et le romhacking
+├── DOCUMENTATION.md           # Notes techniques sur la ROM et l'architecture
 ├── CREDITS.md                 # Remerciements et crédits
 ├── assets/screenshots/        # Captures d'écran du jeu en français
+├── patcher/                   # Patcher web local en HTML / WebAssembly (xdelta3)
+│   ├── index.html
+│   └── lancer_patcher.bat
 ├── traduction/
-│   └── JackBros_FR.json       # Fichier JSON contenant les 142 textes traduits
-└── tool/                      # Outil web local (Python / FastAPI / HTML)
+│   └── JackBros_FR.json       # Les 142 textes traduits en français
+└── tool/                      # Moteur de compilation et interface web locale
 ```
 
 <br/>
@@ -122,5 +144,15 @@ JackBros-FR-VB/
 ## Crédits & Remerciements
 
 - Projet réalisé par **[chenetulipe](https://github.com/chenetulipe)**.
-- Merci à **Atlus** pour le jeu original (1995).
-- Retrouvez tous les détails et remerciements dans le fichier **[CREDITS.md](./CREDITS.md)**.
+- Merci à **Atlus** pour le jeu d'origine (1995).
+- Retrouvez l'ensemble des crédits et des sources dans **[CREDITS.md](./CREDITS.md)**.
+
+<br/>
+
+---
+
+## Mentions Légales
+
+Ce projet est un travail de traduction bénévole et indépendant réalisé par des fans.  
+Il n'est ni affilié, ni approuvé par Nintendo ou Atlus.  
+Jack Bros., Shin Megami Tensei et leurs personnages sont la propriété d'**Atlus Co., Ltd. / SEGA**.
