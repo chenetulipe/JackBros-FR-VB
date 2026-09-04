@@ -1,0 +1,1138 @@
+[
+    {
+        "id": 1,
+        "offset": 3236,
+        "slot_size": 6,
+        "font": 1,
+        "texte_orig": "PAUSE<END>",
+        "texte_fr": "PAUSE<END>"
+    },
+    {
+        "id": 2,
+        "offset": 3242,
+        "slot_size": 11,
+        "font": 1,
+        "texte_orig": "PUSH START<END>",
+        "texte_fr": "APP. START<END>"
+    },
+    {
+        "id": 3,
+        "offset": 8335,
+        "slot_size": 19,
+        "font": 1,
+        "texte_orig": "PRESS START BUTTON<END>",
+        "texte_fr": "APPUYEZ SUR START<END>"
+    },
+    {
+        "id": 4,
+        "offset": 19050,
+        "slot_size": 9,
+        "font": 1,
+        "texte_orig": "START   <END>",
+        "texte_fr": "JOUER   <END>"
+    },
+    {
+        "id": 5,
+        "offset": 19059,
+        "slot_size": 9,
+        "font": 1,
+        "texte_orig": "PASSWORD<END>",
+        "texte_fr": "CODE    <END>"
+    },
+    {
+        "id": 6,
+        "offset": 19095,
+        "slot_size": 36,
+        "font": 2,
+        "texte_orig": "Jack Bros. is a trademark of Atlus.<END>",
+        "texte_fr": "Jack Bros. est une marque d'Atlus.<END>"
+    },
+    {
+        "id": 7,
+        "offset": 19131,
+        "slot_size": 21,
+        "font": 2,
+        "texte_orig": "All rights reserved.<END>",
+        "texte_fr": "Tous droits reserves<END>"
+    },
+    {
+        "id": 8,
+        "offset": 19152,
+        "slot_size": 18,
+        "font": 1,
+        "texte_orig": "FOR SUPER PLAYERS<END>",
+        "texte_fr": "POUR SUPER JOUEUR<END>"
+    },
+    {
+        "id": 9,
+        "offset": 19173,
+        "slot_size": 10,
+        "font": 1,
+        "texte_orig": "GAME OVER<END>",
+        "texte_fr": "GAME OVER<END>"
+    },
+    {
+        "id": 10,
+        "offset": 81941,
+        "slot_size": 17,
+        "font": 1,
+        "texte_orig": "NEXT AREA TIME :<END>",
+        "texte_fr": "TEMPS SUIVANT  :<END>"
+    },
+    {
+        "id": 11,
+        "offset": 81958,
+        "slot_size": 17,
+        "font": 1,
+        "texte_orig": "    TOTAL TIME :<END>",
+        "texte_fr": "  TEMPS TOTAL  :<END>"
+    },
+    {
+        "id": 12,
+        "offset": 81975,
+        "slot_size": 9,
+        "font": 1,
+        "texte_orig": "PASSWORD<END>",
+        "texte_fr": "CODE    <END>"
+    },
+    {
+        "id": 13,
+        "offset": 81984,
+        "slot_size": 18,
+        "font": 1,
+        "texte_orig": "CONGRATULATIONS !<END>",
+        "texte_fr": "FELICITATIONS !<END>"
+    },
+    {
+        "id": 14,
+        "offset": 82185,
+        "slot_size": 18,
+        "font": 1,
+        "texte_orig": "Forest of Fairies<END>",
+        "texte_fr": "Foret des Fees<END>"
+    },
+    {
+        "id": 15,
+        "offset": 82204,
+        "slot_size": 21,
+        "font": 1,
+        "texte_orig": "Grim Reaper's Cavern<END>",
+        "texte_fr": "Caverne du Faucheur<END>"
+    },
+    {
+        "id": 16,
+        "offset": 82225,
+        "slot_size": 21,
+        "font": 1,
+        "texte_orig": " Temple of Nightmare<END>",
+        "texte_fr": " Temple du Cauchemar<END>"
+    },
+    {
+        "id": 17,
+        "offset": 82226,
+        "slot_size": 20,
+        "font": 1,
+        "texte_orig": "Temple of Nightmare<END>",
+        "texte_fr": "Temple du Cauchemar<END>"
+    },
+    {
+        "id": 18,
+        "offset": 82247,
+        "slot_size": 15,
+        "font": 1,
+        "texte_orig": "Dragon's Belly<END>",
+        "texte_fr": "Ventre Dragon<END>"
+    },
+    {
+        "id": 19,
+        "offset": 82263,
+        "slot_size": 15,
+        "font": 1,
+        "texte_orig": "Mecha Fortress<END>",
+        "texte_fr": "Fort Mecha<END>"
+    },
+    {
+        "id": 20,
+        "offset": 82279,
+        "slot_size": 15,
+        "font": 1,
+        "texte_orig": "Crystal Palace<END>",
+        "texte_fr": "Palais Cristal<END>"
+    },
+    {
+        "id": 21,
+        "offset": 523725,
+        "slot_size": 77,
+        "font": 1,
+        "texte_orig": " Collect all the keys you find!\nWhen the goal appears, jump down from there.<END>",
+        "texte_fr": " Trouve toutes\nles cles que\ntu croises!<PAGE>Quand le but\napparait,\nsaute dedans!<END>"
+    },
+    {
+        "id": 22,
+        "offset": 523726,
+        "slot_size": 76,
+        "font": 1,
+        "texte_orig": "Collect all the keys you find!\nWhen the goal appears, jump down from there.<END>",
+        "texte_fr": "Trouve toutes\nles cles que\ntu croises!<PAGE>Quand le but\napparait,\nsaute dedans!<END>"
+    },
+    {
+        "id": 23,
+        "offset": 523811,
+        "slot_size": 75,
+        "font": 1,
+        "texte_orig": " The only enemy here is Slime.\nDefeat him quickly and let's be on our way!<END>",
+        "texte_fr": " Ici, le seul\nennemi est\nSlime.<PAGE>Bats le vite\net continuons\nnotre route!<END>"
+    },
+    {
+        "id": 24,
+        "offset": 523812,
+        "slot_size": 74,
+        "font": 1,
+        "texte_orig": "The only enemy here is Slime.\nDefeat him quickly and let's be on our way!<END>",
+        "texte_fr": "Ici, le seul\nennemi est\nSlime.<PAGE>Bats le vite\net continuons\nnotre route!<END>"
+    },
+    {
+        "id": 25,
+        "offset": 523897,
+        "slot_size": 50,
+        "font": 1,
+        "texte_orig": " Watch out for the Goblin Brothers on this floor!<END>",
+        "texte_fr": " Attention aux\nFreres Goblin\na cet etage!<END>"
+    },
+    {
+        "id": 26,
+        "offset": 523898,
+        "slot_size": 49,
+        "font": 1,
+        "texte_orig": "Watch out for the Goblin Brothers on this floor!<END>",
+        "texte_fr": "Attention aux\nFreres Goblin\na cet etage!<END>"
+    },
+    {
+        "id": 27,
+        "offset": 523957,
+        "slot_size": 40,
+        "font": 1,
+        "texte_orig": "They like to drop bombs, so be careful!<END>",
+        "texte_fr": "Ils lancent\ndes bombes,\nsois prudent!<END>"
+    },
+    {
+        "id": 28,
+        "offset": 524010,
+        "slot_size": 102,
+        "font": 1,
+        "texte_orig": " Look out for Tomcat's surprise attacks!\nShe'll attack when you least expect it,\nso be on your guard!<END>",
+        "texte_fr": " Mefie toi des\nattaques de\nTomcat!<PAGE>Elle attaque\npar surprise,\n<PAGE>reste bien\nsur tes\ngardes!<END>"
+    },
+    {
+        "id": 29,
+        "offset": 524011,
+        "slot_size": 101,
+        "font": 1,
+        "texte_orig": "Look out for Tomcat's surprise attacks!\nShe'll attack when you least expect it,\nso be on your guard!<END>",
+        "texte_fr": "Mefie toi des\nattaques de\nTomcat!<PAGE>Elle attaque\npar surprise,\n<PAGE>reste bien\nsur tes\ngardes!<END>"
+    },
+    {
+        "id": 30,
+        "offset": 524121,
+        "slot_size": 29,
+        "font": 1,
+        "texte_orig": " Enemies may have keys also.<END>",
+        "texte_fr": " Des ennemis\nont des cles!<END>"
+    },
+    {
+        "id": 31,
+        "offset": 524122,
+        "slot_size": 28,
+        "font": 1,
+        "texte_orig": "Enemies may have keys also.<END>",
+        "texte_fr": "Des ennemis\nont des cles!<END>"
+    },
+    {
+        "id": 32,
+        "offset": 524161,
+        "slot_size": 138,
+        "font": 1,
+        "texte_orig": " Watch out for the Jack Traps on this floor!\nWhen the Jack Traps are down it's safe to step on them.\nDon't step on them when they pop up!<END>",
+        "texte_fr": " Attention aux\nPieges Jack\na cet etage!<PAGE>S'il est\nbaisse, tu\npeux passer.<PAGE>Ne marche pas\ndessus s'il\nest sorti!<END>"
+    },
+    {
+        "id": 33,
+        "offset": 524162,
+        "slot_size": 137,
+        "font": 1,
+        "texte_orig": "Watch out for the Jack Traps on this floor!\nWhen the Jack Traps are down it's safe to step on them.\nDon't step on them when they pop up!<END>",
+        "texte_fr": "Attention aux\nPieges Jack\na cet etage!<PAGE>S'il est\nbaisse, tu\npeux passer.<PAGE>Ne marche pas\ndessus s'il\nest sorti!<END>"
+    },
+    {
+        "id": 34,
+        "offset": 524361,
+        "slot_size": 68,
+        "font": 1,
+        "texte_orig": " Sounds like Elf is around.\nAvoid the arrows and try to defeat her!<END>",
+        "texte_fr": " On dirait\nqu'Elf rode.<PAGE>Evite ses\nfleches et\nbats la!<END>"
+    },
+    {
+        "id": 35,
+        "offset": 524362,
+        "slot_size": 67,
+        "font": 1,
+        "texte_orig": "Sounds like Elf is around.\nAvoid the arrows and try to defeat her!<END>",
+        "texte_fr": "On dirait\nqu'Elf rode.<PAGE>Evite ses\nfleches et\nbats la!<END>"
+    },
+    {
+        "id": 36,
+        "offset": 524440,
+        "slot_size": 139,
+        "font": 1,
+        "texte_orig": " The path is blocked by boulders.\nYou can push the boulders, but you can't pull them.\nMove the boulders carefully\nor you can't go through.<END>",
+        "texte_fr": " Des rochers\nbloquent la\nvoie.<PAGE>Pousse les,\ntu ne peux\npas les tirer.<PAGE>Deplace les\navec soin,<PAGE>sinon tu seras\nbloque!<END>"
+    },
+    {
+        "id": 37,
+        "offset": 524441,
+        "slot_size": 138,
+        "font": 1,
+        "texte_orig": "The path is blocked by boulders.\nYou can push the boulders, but you can't pull them.\nMove the boulders carefully\nor you can't go through.<END>",
+        "texte_fr": "Des rochers\nbloquent la\nvoie.<PAGE>Pousse les,\ntu ne peux\npas les tirer.<PAGE>Deplace les\navec soin,<PAGE>sinon tu seras\nbloque!<END>"
+    },
+    {
+        "id": 38,
+        "offset": 524592,
+        "slot_size": 131,
+        "font": 1,
+        "texte_orig": " Oh no, it's Paradice!\nIf you try to pass between them,\nyou'll get caught in the middle.\nIt's all timing so try not to get caught!<END>",
+        "texte_fr": " Oh non, c'est\nParadice!<PAGE>Si tu passes\nentre eux,<PAGE>tu seras pris\nau piege!<PAGE>Tout est dans\nle timing,\nsois attentif!<END>"
+    },
+    {
+        "id": 39,
+        "offset": 524593,
+        "slot_size": 130,
+        "font": 1,
+        "texte_orig": "Oh no, it's Paradice!\nIf you try to pass between them,\nyou'll get caught in the middle.\nIt's all timing so try not to get caught!<END>",
+        "texte_fr": "Oh non, c'est\nParadice!<PAGE>Si tu passes\nentre eux,<PAGE>tu seras pris\nau piege!<PAGE>Tout est dans\nle timing,\nsois attentif!<END>"
+    },
+    {
+        "id": 40,
+        "offset": 524734,
+        "slot_size": 133,
+        "font": 1,
+        "texte_orig": " This is the Warp Tile. You can warp somewhere.\nIf you warp, the boulders will reset themselves.\nUse it when you get into trouble, ok",
+        "texte_fr": " Voici la case\nTeleport. Elle\nte teleporte.<PAGE>Les rochers se\nreplacent a\nleur depart.<PAGE>Utilise la si\ntu es coince,\nd'accord ?"
+    },
+    {
+        "id": 41,
+        "offset": 524872,
+        "slot_size": 30,
+        "font": 1,
+        "texte_orig": " Hey, Jack! Are you using the ",
+        "texte_fr": " He, Jack !\nUtilises tu\nle "
+    },
+    {
+        "id": 42,
+        "offset": 524925,
+        "slot_size": 53,
+        "font": 1,
+        "texte_orig": "It's gonna be tough if you don't know how to use it.<END>",
+        "texte_fr": "Ce sera dur si\ntu ne sais pas\nl'utiliser !<END>"
+    },
+    {
+        "id": 43,
+        "offset": 524989,
+        "slot_size": 108,
+        "font": 1,
+        "texte_orig": " Mystic Morgan is here so don't let your guard down!\nHe'll appear suddenly and use his magic powers on you.<END>",
+        "texte_fr": " Mystic Morgan\nest la, reste\nsur tes\ngardes !<PAGE>Il surgit sans\nprevenir et te\nlance des\nsorts !<END>"
+    },
+    {
+        "id": 44,
+        "offset": 524990,
+        "slot_size": 107,
+        "font": 1,
+        "texte_orig": "Mystic Morgan is here so don't let your guard down!\nHe'll appear suddenly and use his magic powers on you.<END>",
+        "texte_fr": "Mystic Morgan\nest la, reste\nsur tes\ngardes !<PAGE>Il surgit sans\nprevenir et te\nlance des\nsorts !<END>"
+    },
+    {
+        "id": 45,
+        "offset": 525108,
+        "slot_size": 163,
+        "font": 1,
+        "texte_orig": " There's Furin just up ahead.\nFurin has a shield\nso you can't attack from the front.\nYour attacks will be blocked.\nAttack from behind or from the side! Good luck!<END>",
+        "texte_fr": " Furin est\ndevant toi.<PAGE>Il a un\nbouclier, tu\nne peux pas\nl'attaquer<PAGE>de face.\nFrappe le par\nderriere ou\nde cote !<PAGE>Bonne chance !<END>"
+    },
+    {
+        "id": 46,
+        "offset": 525109,
+        "slot_size": 162,
+        "font": 1,
+        "texte_orig": "There's Furin just up ahead.\nFurin has a shield\nso you can't attack from the front.\nYour attacks will be blocked.\nAttack from behind or from the side! Good luck!<END>",
+        "texte_fr": "Furin est\ndevant toi.<PAGE>Il a un\nbouclier, tu\nne peux pas\nl'attaquer<PAGE>de face.\nFrappe le par\nderriere ou\nde cote !<PAGE>Bonne chance !<END>"
+    },
+    {
+        "id": 47,
+        "offset": 525283,
+        "slot_size": 109,
+        "font": 1,
+        "texte_orig": "There's a Poltergeist.\nIt's rumored he has something very useful.\nHe's quick to run away, so don't lose him!<END>",
+        "texte_fr": "C'est un\nPoltergeist.<PAGE>On dit qu'il a\nun objet tres\nutile sur lui.<PAGE>Il s'enfuit\nvite, ne le\nperds pas !<END>"
+    },
+    {
+        "id": 48,
+        "offset": 525397,
+        "slot_size": 56,
+        "font": 1,
+        "texte_orig": " There's a lot of goals on this floor.\nThe best goal is ",
+        "texte_fr": " Il y a plein\nde buts a\ncet etage.<PAGE>Le meilleur\nbut est "
+    },
+    {
+        "id": 49,
+        "offset": 525475,
+        "slot_size": 17,
+        "font": 1,
+        "texte_orig": "Sorry, I forgot.<END>",
+        "texte_fr": "J'ai oublie.<END>"
+    },
+    {
+        "id": 50,
+        "offset": 525496,
+        "slot_size": 97,
+        "font": 1,
+        "texte_orig": "After you go down,make sure you check the area.\nThere may be enemies standing right next to you.<END>",
+        "texte_fr": "En bas,\nobserve bien\nles environs.<PAGE>Des ennemis\npeuvent etre\njuste a cote\nde toi !<END>"
+    },
+    {
+        "id": 51,
+        "offset": 525606,
+        "slot_size": 194,
+        "font": 1,
+        "texte_orig": " There's a weapon here called Double Lasers.\nThey face each other\nand a beam shoots out in between them.\nTo destroy it, approach from the side.\nIf you try to attack from behind, you'll get hit.<END>",
+        "texte_fr": " Voici l'arme\nappelee\nDouble Laser.<PAGE>Ils se font\nface et un\nrayon jaillit\nentre eux.<PAGE>Pour les\ndetruire,\napproche par\nle cote.<PAGE>Si tu attaques\npar derriere,\ntu seras\ntouche !<END>"
+    },
+    {
+        "id": 52,
+        "offset": 525607,
+        "slot_size": 193,
+        "font": 1,
+        "texte_orig": "There's a weapon here called Double Lasers.\nThey face each other\nand a beam shoots out in between them.\nTo destroy it, approach from the side.\nIf you try to attack from behind, you'll get hit.<END>",
+        "texte_fr": "Voici l'arme\nappelee\nDouble Laser.<PAGE>Ils se font\nface et un\nrayon jaillit\nentre eux.<PAGE>Pour les\ndetruire,\napproche par\nle cote.<PAGE>Si tu attaques\npar derriere,\ntu seras\ntouche !<END>"
+    },
+    {
+        "id": 53,
+        "offset": 525809,
+        "slot_size": 80,
+        "font": 1,
+        "texte_orig": " You can block the beam with a boulder too!\nMove the boulders around carefully!<END>",
+        "texte_fr": " Bloque aussi\nle rayon avec\nun rocher !<PAGE>Deplace les\nprudemment !<END>"
+    },
+    {
+        "id": 54,
+        "offset": 525810,
+        "slot_size": 79,
+        "font": 1,
+        "texte_orig": "You can block the beam with a boulder too!\nMove the boulders around carefully!<END>",
+        "texte_fr": "Bloque aussi\nle rayon avec\nun rocher !<PAGE>Deplace les\nprudemment !<END>"
+    },
+    {
+        "id": 55,
+        "offset": 525900,
+        "slot_size": 121,
+        "font": 1,
+        "texte_orig": " See how the floor's hidden in some places?\nThat's Dark Zone. You'd better be careful!\nEnemies might be hiding in there!<END>",
+        "texte_fr": " Vois tu le\nsol cache par\nendroits ?<PAGE>C'est la Zone\nSombre. Sois\nprudent !<PAGE>Des ennemis\npeuvent s'y\ncacher !<END>"
+    },
+    {
+        "id": 56,
+        "offset": 525944,
+        "slot_size": 77,
+        "font": 1,
+        "texte_orig": "That's Dark Zone. You'd better be careful!\nEnemies might be hiding in there!<END>",
+        "texte_fr": "C'est la Zone\nSombre. Sois\nprudent !<PAGE>Des ennemis\npeuvent s'y\ncacher !<END>"
+    },
+    {
+        "id": 57,
+        "offset": 526032,
+        "slot_size": 114,
+        "font": 1,
+        "texte_orig": " Skelipede's here. His weak point is his head.\nBut, he's really fast and spits fire,\nso he won't be easy to beat!<END>",
+        "texte_fr": " Skelipede est\nla. Sa tete\nest son point\nfaible.<PAGE>Il est rapide\net crache du\nfeu,<PAGE>il sera dur\na vaincre !<END>"
+    },
+    {
+        "id": 58,
+        "offset": 526033,
+        "slot_size": 113,
+        "font": 1,
+        "texte_orig": "Skelipede's here. His weak point is his head.\nBut, he's really fast and spits fire,\nso he won't be easy to beat!<END>",
+        "texte_fr": "Skelipede est\nla. Sa tete\nest son point\nfaible.<PAGE>Il est rapide\net crache du\nfeu,<PAGE>il sera dur\na vaincre !<END>"
+    },
+    {
+        "id": 59,
+        "offset": 526157,
+        "slot_size": 90,
+        "font": 1,
+        "texte_orig": " Watch out for Luminous Lex!\nHe moves around and shoots at you\nand he can't be destroyed.<END>",
+        "texte_fr": " Attention a\nLuminous Lex !<PAGE>Il bouge et te\ntire dessus,<PAGE>et rien ne\npeut le\ndetruire !<END>"
+    },
+    {
+        "id": 60,
+        "offset": 526158,
+        "slot_size": 89,
+        "font": 1,
+        "texte_orig": "Watch out for Luminous Lex!\nHe moves around and shoots at you\nand he can't be destroyed.<END>",
+        "texte_fr": "Attention a\nLuminous Lex !<PAGE>Il bouge et te\ntire dessus,<PAGE>et rien ne\npeut le\ndetruire !<END>"
+    },
+    {
+        "id": 61,
+        "offset": 526256,
+        "slot_size": 53,
+        "font": 1,
+        "texte_orig": " Either dodge the beam or use a boulder to block it.<END>",
+        "texte_fr": " Esquive le\nrayon ou\nbloque le avec\nun rocher !<END>"
+    },
+    {
+        "id": 62,
+        "offset": 526257,
+        "slot_size": 52,
+        "font": 1,
+        "texte_orig": "Either dodge the beam or use a boulder to block it.<END>",
+        "texte_fr": "Esquive le\nrayon ou\nbloque le avec\nun rocher !<END>"
+    },
+    {
+        "id": 63,
+        "offset": 526312,
+        "slot_size": 75,
+        "font": 1,
+        "texte_orig": " This is an easy floor.\nBut it looks like there are enemies so be careful!<END>",
+        "texte_fr": " Cet etage est\nplutot facile.<PAGE>Mais il y a\ndes ennemis,\nsois prudent !<END>"
+    },
+    {
+        "id": 64,
+        "offset": 526313,
+        "slot_size": 74,
+        "font": 1,
+        "texte_orig": "This is an easy floor.\nBut it looks like there are enemies so be careful!<END>",
+        "texte_fr": "Cet etage est\nplutot facile.<PAGE>Mais il y a\ndes ennemis,\nsois prudent !<END>"
+    },
+    {
+        "id": 65,
+        "offset": 526398,
+        "slot_size": 106,
+        "font": 1,
+        "texte_orig": " FireBreathers! They spit out flames and get in your way!\nThey're really strong so you can't defeat them!<END>",
+        "texte_fr": " Crache Feu !\nLeurs flammes\nte barrent le\npassage !<PAGE>Ils sont trop\nforts, tu ne\npeux pas les\nbattre !<END>"
+    },
+    {
+        "id": 66,
+        "offset": 526399,
+        "slot_size": 105,
+        "font": 1,
+        "texte_orig": "FireBreathers! They spit out flames and get in your way!\nThey're really strong so you can't defeat them!<END>",
+        "texte_fr": "Crache Feu !\nLeurs flammes\nte barrent le\npassage !<PAGE>Ils sont trop\nforts, tu ne\npeux pas les\nbattre !<END>"
+    },
+    {
+        "id": 67,
+        "offset": 526513,
+        "slot_size": 54,
+        "font": 1,
+        "texte_orig": " Either dodge the flames or block them with a boulder<END>",
+        "texte_fr": " Esquive les\nflammes ou\nbloque les\nd'un rocher.<END>"
+    },
+    {
+        "id": 68,
+        "offset": 526514,
+        "slot_size": 53,
+        "font": 1,
+        "texte_orig": "Either dodge the flames or block them with a boulder<END>",
+        "texte_fr": "Esquive les\nflammes ou\nbloque les\nd'un rocher.<END>"
+    },
+    {
+        "id": 69,
+        "offset": 526582,
+        "slot_size": 24,
+        "font": 1,
+        "texte_orig": " This is Angel's floor. ",
+        "texte_fr": " L'etage de\nl'Ange. "
+    },
+    {
+        "id": 70,
+        "offset": 526609,
+        "slot_size": 102,
+        "font": 1,
+        "texte_orig": "Why is Angel here?\nI think angel was bored and ended up here.\nHit the ball and chain to attack Angel.<END>",
+        "texte_fr": "Pourquoi\ncet Ange?<PAGE>Il s'ennuyait\nsans doute.<PAGE>Frappe son\nboulet pour\nl'attaquer !<END>"
+    },
+    {
+        "id": 71,
+        "offset": 526628,
+        "slot_size": 83,
+        "font": 1,
+        "texte_orig": "I think angel was bored and ended up here.\nHit the ball and chain to attack Angel.<END>",
+        "texte_fr": "Il s'ennuyait\nsans doute.<PAGE>Frappe son\nboulet pour\nl'attaquer !<END>"
+    },
+    {
+        "id": 72,
+        "offset": 526714,
+        "slot_size": 170,
+        "font": 1,
+        "texte_orig": " Hey, Jack!\nYou know what??I don't know too much about this area.\nSo I'm not going to say anything for awhile.\nDon't worry!\nIf I come up with anything I'll let you know!<END>",
+        "texte_fr": " He, Jack!\nTu sais quoi?\nJe connais mal\ncette zone.<PAGE>Je ne vais\nrien dire pour\nle moment.<PAGE>Ne t'inquiete\npas! Si je\ntrouve, je te\npreviendrai!<END>"
+    },
+    {
+        "id": 73,
+        "offset": 526899,
+        "slot_size": 111,
+        "font": 1,
+        "texte_orig": " Cyclops roams this floor.\nHe's a powerful giant who can create earthquakes.\nAttack several times to defeat him",
+        "texte_fr": " Cyclops erre\na cet etage.<PAGE>Ce puissant\ngeant peut\ncreer des\nseismes!<PAGE>Attaque le\nplusieurs fois\npour le battre"
+    },
+    {
+        "id": 74,
+        "offset": 527014,
+        "slot_size": 15,
+        "font": 1,
+        "texte_orig": "You can do it!<END>",
+        "texte_fr": "Tu y arriveras<END>"
+    },
+    {
+        "id": 75,
+        "offset": 527133,
+        "slot_size": 109,
+        "font": 1,
+        "texte_orig": " Pixie: Once you have the keys,look for the goal!\nPixie: The goal is marked by the letter [E]\non your radar.<END>",
+        "texte_fr": " Pixie: Avec\nles cles,\ncherche vite\nla sortie!<PAGE>Pixie: La\nsortie est\nmarquee par [E]\nsur le radar.<END>"
+    },
+    {
+        "id": 76,
+        "offset": 527243,
+        "slot_size": 168,
+        "font": 1,
+        "texte_orig": " This is the goal! Jump down to the floor below!\nTo Jump down,\npress the Control Pad in the direction with no walls.\nThen you can go to the next floor! See??It's easy!<END>",
+        "texte_fr": " C'est la\nsortie! Saute a\nl'etage du\ndessous!<PAGE>Pour sauter,\nappuie sur la\ncroix vers un\nbord sans mur.<PAGE>Tu passeras a\nl'etage suivant!\nTu vois? C'est\nfacile!<END>"
+    },
+    {
+        "id": 77,
+        "offset": 527413,
+        "slot_size": 181,
+        "font": 1,
+        "texte_orig": " Pixie: Lamia is just up ahead.\nPixie: Use your weapon against Lamia's plasma attacks.\nPixie: The enemy's HP is displayed on the bottom right\nPixie:?This is the enemy's life meter.<END>",
+        "texte_fr": " Pixie: Lamia\nest droit\ndevant nous.<PAGE>Pixie: Tire sur\nses attaques de\nplasma avec\nton arme.<PAGE>Pixie: Les PV\nsont en bas a\ndroite.<PAGE>Pixie: C'est sa\njauge de vie.<END>"
+    },
+    {
+        "id": 78,
+        "offset": 527595,
+        "slot_size": 131,
+        "font": 1,
+        "texte_orig": " Pixie: You must defeat Sinister Scar to escape here!\nPixie: When Scar stops moving, look out!\nPixie:?You'll be attacked by snake!<END>",
+        "texte_fr": " Pixie: Tu dois\nbattre Sinister\nScar pour fuir!<PAGE>Pixie: Quand\nScar s'arrete,\nattention!<PAGE>Pixie: Prends\ngarde a son\nserpent!<END>"
+    },
+    {
+        "id": 79,
+        "offset": 527727,
+        "slot_size": 88,
+        "font": 1,
+        "texte_orig": " Pixie: Vampire is on the next floor.\nPixie:?He controls the vampire bats so watch out!<END>",
+        "texte_fr": " Pixie: Vampire\nest a l'etage\nsuivant.<PAGE>Pixie: Attention\na ses chauves \nsouris!<END>"
+    },
+    {
+        "id": 80,
+        "offset": 527817,
+        "slot_size": 163,
+        "font": 1,
+        "texte_orig": " Pixie: Spider Orb is your next opponent.\nPixie: He has 6arms and shoots a beam from his eye.\nPixie: If the beam hits you,\nPixie: you'll be temporarily paralyzed.<END>",
+        "texte_fr": " Pixie: Spider\nOrb sera ton\nprochain rival.<PAGE>Pixie: Il a 6\nbras et tire un\nrayon de son\noeil!<PAGE>Pixie: S'il te\ntouche, tu seras\nparalyse un\ninstant!<END>"
+    },
+    {
+        "id": 81,
+        "offset": 527981,
+        "slot_size": 156,
+        "font": 1,
+        "texte_orig": " Pixie: This is Wybern's fortress.\nPixie: He attacks by shooting flames\nPixie: and flapping his wings. In addition,\nPixie: there are Jack Traps everywhere!<END>",
+        "texte_fr": " Pixie: C'est\nle fort de\nWybern.<PAGE>Pixie: Il tire\ndes flammes et\nbat des ailes.<PAGE>Pixie: De plus,\nil y a des\nPieges Jack\npartout!<END>"
+    },
+    {
+        "id": 82,
+        "offset": 528114,
+        "slot_size": 23,
+        "font": 1,
+        "texte_orig": "Jack Traps everywhere!<END>",
+        "texte_fr": "Pieges Jack\npartout!<END>"
+    },
+    {
+        "id": 83,
+        "offset": 528139,
+        "slot_size": 200,
+        "font": 1,
+        "texte_orig": " Pixie: Finally, this is the last floor!\nPixie: Your last opponent is Belzoff,\nPixie: ruler of the Monster World.\nPixie: He's a lot stronger than those other guys\nPixie: Give it your best shot, Jack!<END>",
+        "texte_fr": " Pixie: Enfin,\nvoici le tout\ndernier etage!<PAGE>Pixie: Ton rival\nest Belzoff,\nroi du Monde des\nMonstres.<PAGE>Pixie: Il est\nbien plus fort\nque les autres!<PAGE>Pixie: Donne\ntout ce que tu\nas, Jack!<END>"
+    },
+    {
+        "id": 84,
+        "offset": 528309,
+        "slot_size": 30,
+        "font": 1,
+        "texte_orig": "Give it your best shot, Jack!<END>",
+        "texte_fr": "Fais de ton\nmieux, Jack!<END>"
+    },
+    {
+        "id": 85,
+        "offset": 528404,
+        "slot_size": 25,
+        "font": 2,
+        "texte_orig": "October 31st, Halloween.<END>",
+        "texte_fr": "31 Octobre, Halloween.<END>"
+    },
+    {
+        "id": 86,
+        "offset": 528429,
+        "slot_size": 66,
+        "font": 2,
+        "texte_orig": "The one day of the year  when fairies can enter  the human world.<END>",
+        "texte_fr": "Le seul jour de l'an\nou les fees visitent\nle monde des humains.<END>"
+    },
+    {
+        "id": 87,
+        "offset": 528495,
+        "slot_size": 75,
+        "font": 2,
+        "texte_orig": "Fairies everywhere come to play  with the children and  get into mischief!<END>",
+        "texte_fr": "Partout, les fees viennent\njouer avec les enfants et\nfaire des farces!<END>"
+    },
+    {
+        "id": 88,
+        "offset": 528570,
+        "slot_size": 48,
+        "font": 2,
+        "texte_orig": "Children and fairies  look forward to this day.<END>",
+        "texte_fr": "Les enfants et les fees\nattendent tous ce jour.<END>"
+    },
+    {
+        "id": 89,
+        "offset": 528618,
+        "slot_size": 53,
+        "font": 2,
+        "texte_orig": "This commotion continues  until late into the night.<END>",
+        "texte_fr": "Cette agitation continue\njusque tard dans la nuit.<END>"
+    },
+    {
+        "id": 90,
+        "offset": 528671,
+        "slot_size": 130,
+        "font": 2,
+        "texte_orig": "Before long, it is 11:00 o'clock  at night. Halloween will be over  soon and the portal to the world  of Fairies will soon close.<END>",
+        "texte_fr": "Bientot, 11h00 du soir sonne.\nHalloween va s'achever et\nle portail du Monde des Fees\nva bientot se refermer.<END>"
+    },
+    {
+        "id": 91,
+        "offset": 528801,
+        "slot_size": 32,
+        "font": 2,
+        "texte_orig": "The fairies have all gone home.<END>",
+        "texte_fr": "Les fees sont toutes\nrentrees.<END>"
+    },
+    {
+        "id": 92,
+        "offset": 528833,
+        "slot_size": 12,
+        "font": 2,
+        "texte_orig": "However....<END>",
+        "texte_fr": "Pourtant...<END>"
+    },
+    {
+        "id": 93,
+        "offset": 528845,
+        "slot_size": 65,
+        "font": 2,
+        "texte_orig": "Jack was having such a good time  that he forgot about the time.<END>",
+        "texte_fr": "Jack s'amusait tellement\nqu'il en a oublie l'heure.<END>"
+    },
+    {
+        "id": 94,
+        "offset": 528910,
+        "slot_size": 74,
+        "font": 2,
+        "texte_orig": "Fairies who do not return home  in time lose their powers  and disappear.<END>",
+        "texte_fr": "Les fees en retard perdent\nleurs pouvoirs et finissent\npar disparaitre.<END>"
+    },
+    {
+        "id": 95,
+        "offset": 528984,
+        "slot_size": 33,
+        "font": 2,
+        "texte_orig": "Will Jack make it home  in time?<END>",
+        "texte_fr": "Jack va-t-il rentrer\na temps?<END>"
+    },
+    {
+        "id": 96,
+        "offset": 529017,
+        "slot_size": 65,
+        "font": 2,
+        "texte_orig": "Pixie:  Jack, what are you doing?  It's time for you to go home!<END>",
+        "texte_fr": "Pixie: Jack, que fais-tu?\nIl est l'heure pour toi de\nrentrer!<END>"
+    },
+    {
+        "id": 97,
+        "offset": 529082,
+        "slot_size": 31,
+        "font": 2,
+        "texte_orig": "Pixie:  I live here so I'm okay",
+        "texte_fr": "Pixie: Je vis ici,\nca va.<END>"
+    },
+    {
+        "id": 98,
+        "offset": 529117,
+        "slot_size": 68,
+        "font": 2,
+        "texte_orig": "Pixie:  Jack,if you're not home in time,  you'll disappear forever!<END>",
+        "texte_fr": "Pixie: Jack, si tu es en\nretard, tu disparaitras\npour toujours!<END>"
+    },
+    {
+        "id": 99,
+        "offset": 529185,
+        "slot_size": 97,
+        "font": 2,
+        "texte_orig": "Pixie: You're hopeless,Jack... But I'll show you the way home. It's a bit dangerous,though...<END>",
+        "texte_fr": "Pixie: Tu es incorrigible,\nJack... Je vais te guider,\nmais le chemin sera un\npeu dangereux...<END>"
+    },
+    {
+        "id": 100,
+        "offset": 529282,
+        "slot_size": 35,
+        "font": 2,
+        "texte_orig": "I'll go with you,  so don't worry!<END>",
+        "texte_fr": "Je viens avec toi,\nrassure-toi!<END>"
+    },
+    {
+        "id": 101,
+        "offset": 529460,
+        "slot_size": 18,
+        "font": 2,
+        "texte_orig": "Fairies:  Frost!!<END>",
+        "texte_fr": "Fees: Frost!!<END>"
+    },
+    {
+        "id": 102,
+        "offset": 529478,
+        "slot_size": 37,
+        "font": 2,
+        "texte_orig": "Frost:  Hee Ho!  Thanks for waiting!<END>",
+        "texte_fr": "Frost: Hee Ho! Merci\npour l'attente!<END>"
+    },
+    {
+        "id": 103,
+        "offset": 529515,
+        "slot_size": 38,
+        "font": 2,
+        "texte_orig": "Fairies:  What do you mean, 'Thanks'?<END>",
+        "texte_fr": "Fees: Comment ca,\n'Merci'?!<END>"
+    },
+    {
+        "id": 104,
+        "offset": 529553,
+        "slot_size": 57,
+        "font": 2,
+        "texte_orig": "Fairies:  Do you realize how worried  we were about you?<END>",
+        "texte_fr": "Fees: Tu sais a quel point\non s'inquietait pour toi?!<END>"
+    },
+    {
+        "id": 105,
+        "offset": 529610,
+        "slot_size": 42,
+        "font": 2,
+        "texte_orig": "Fairies:  C'mon everyone!  Let's get him!<END>",
+        "texte_fr": "Fees: Venez toutes!\nAttrapons-le!<END>"
+    },
+    {
+        "id": 106,
+        "offset": 529652,
+        "slot_size": 58,
+        "font": 2,
+        "texte_orig": "Princess:  Pixie,Thank you for  always watching over him.<END>",
+        "texte_fr": "Princesse: Pixie, merci\nde toujours veiller sur\nlui.<END>"
+    },
+    {
+        "id": 107,
+        "offset": 529710,
+        "slot_size": 84,
+        "font": 2,
+        "texte_orig": "Pixie:  My pleasure,your Highness.  It happens every year,  I'm used to it already.<END>",
+        "texte_fr": "Pixie: Avec plaisir, Votre\nAltesse. C'est ainsi chaque\nannee, j'ai l'habitude.<END>"
+    },
+    {
+        "id": 108,
+        "offset": 529794,
+        "slot_size": 58,
+        "font": 2,
+        "texte_orig": "Pixie:  Besides, it's kind of fun.  I look forward to it.<END>",
+        "texte_fr": "Pixie: Et puis c'est plutot\namusant. J'ai hate d'y\netre!<END>"
+    },
+    {
+        "id": 109,
+        "offset": 529852,
+        "slot_size": 46,
+        "font": 2,
+        "texte_orig": "Pixie:  I'm sure monsters feel  the same way.<END>",
+        "texte_fr": "Pixie: Les monstres doivent\npenser de meme.<END>"
+    },
+    {
+        "id": 110,
+        "offset": 529898,
+        "slot_size": 36,
+        "font": 2,
+        "texte_orig": "Pixie:  They welcome it every year.<END>",
+        "texte_fr": "Pixie: Ils adorent ca tous\nles ans.<END>"
+    },
+    {
+        "id": 111,
+        "offset": 529934,
+        "slot_size": 50,
+        "font": 2,
+        "texte_orig": "Lantern:  Hee ho! I made it!  I knew I'd make it!<END>",
+        "texte_fr": "Lantern: Hee-Ho! J'ai reussi!\nJe le savais bien!<END>"
+    },
+    {
+        "id": 112,
+        "offset": 529984,
+        "slot_size": 68,
+        "font": 2,
+        "texte_orig": "Fairies:  Lantern,Where's the princess?  I can't find her anywhere.<END>",
+        "texte_fr": "Fees: Lantern, ou est la\nprincesse? Elle est nulle\npart par ici!<END>"
+    },
+    {
+        "id": 113,
+        "offset": 530052,
+        "slot_size": 15,
+        "font": 2,
+        "texte_orig": "Lantern:  Huh?<END>",
+        "texte_fr": "Lantern: Hein?<END>"
+    },
+    {
+        "id": 114,
+        "offset": 530067,
+        "slot_size": 63,
+        "font": 2,
+        "texte_orig": "Lantern:  Now that you mention it,  Pixie's not around either.<END>",
+        "texte_fr": "Lantern: En y pensant bien,\nPixie n'est pas la non\nplus.<END>"
+    },
+    {
+        "id": 115,
+        "offset": 530130,
+        "slot_size": 51,
+        "font": 2,
+        "texte_orig": "Princess:  What's all this noise?  I'm right here.<END>",
+        "texte_fr": "Princesse: Pourquoi ce bruit?\nJe suis juste ici.<END>"
+    },
+    {
+        "id": 116,
+        "offset": 530181,
+        "slot_size": 20,
+        "font": 2,
+        "texte_orig": "Fairies:  Princess!<END>",
+        "texte_fr": "Fees: Princesse!<END>"
+    },
+    {
+        "id": 117,
+        "offset": 530201,
+        "slot_size": 57,
+        "font": 2,
+        "texte_orig": "Fairies:  We were worried because  we couldn't find you.<END>",
+        "texte_fr": "Fees: On s'inquietait car on\nne te trouvait pas.<END>"
+    },
+    {
+        "id": 118,
+        "offset": 530258,
+        "slot_size": 55,
+        "font": 2,
+        "texte_orig": "Princess:  Oh,dear. I'm sorry.  Well,shall we go home?<END>",
+        "texte_fr": "Princesse: Oh pardonnez-moi.\nBon, rentrons chez nous.<END>"
+    },
+    {
+        "id": 119,
+        "offset": 530313,
+        "slot_size": 40,
+        "font": 2,
+        "texte_orig": "Lantern:  Princess,have you seen Pixie?<END>",
+        "texte_fr": "Lantern: Princesse, as-tu\nvu Pixie?<END>"
+    },
+    {
+        "id": 120,
+        "offset": 530353,
+        "slot_size": 32,
+        "font": 2,
+        "texte_orig": "Princess:  N-no,why do you ask?<END>",
+        "texte_fr": "Princesse: N-non,\npourquoi ca?<END>"
+    },
+    {
+        "id": 121,
+        "offset": 530385,
+        "slot_size": 53,
+        "font": 2,
+        "texte_orig": "Lantern:  Princess??? you're acting mighty  strange.<END>",
+        "texte_fr": "Lantern: Princesse?! Tu agis\nde facon bien etrange.<END>"
+    },
+    {
+        "id": 122,
+        "offset": 530438,
+        "slot_size": 55,
+        "font": 2,
+        "texte_orig": "Lantern:  You sound exactly like  someone else I know.<END>",
+        "texte_fr": "Lantern: On dirait tellement\nquelqu'un que je connais.<END>"
+    },
+    {
+        "id": 123,
+        "offset": 530493,
+        "slot_size": 17,
+        "font": 2,
+        "texte_orig": "Monsters:  Wait!<END>",
+        "texte_fr": "Monstres: Halte!<END>"
+    },
+    {
+        "id": 124,
+        "offset": 530510,
+        "slot_size": 30,
+        "font": 2,
+        "texte_orig": "Goblin:  They got away,  huh?<END>",
+        "texte_fr": "Goblin: Ils ont file,\nhein?<END>"
+    },
+    {
+        "id": 125,
+        "offset": 530540,
+        "slot_size": 85,
+        "font": 2,
+        "texte_orig": "Mystic Morgan:  Young folks these days are  careless!  That's why this has happened!<END>",
+        "texte_fr": "Morgan: Les jeunes de nos\njours sont trop imprudents!\nVoila pourquoi c'est arrive!<END>"
+    },
+    {
+        "id": 126,
+        "offset": 530625,
+        "slot_size": 57,
+        "font": 2,
+        "texte_orig": "Cyclops:  What?! Are you trying to put  the blame on me?<END>",
+        "texte_fr": "Cyclops: Quoi?! Tu veux me\nrejeter la faute dessus?!<END>"
+    },
+    {
+        "id": 127,
+        "offset": 530682,
+        "slot_size": 90,
+        "font": 2,
+        "texte_orig": "Furin:  Master Mystic Morgan,  that is not entirely true.  Please retract that statement.<END>",
+        "texte_fr": "Furin: Maitre Morgan, ce n'est\npas tout a fait vrai. Veuillez\nretirer vos paroles.<END>"
+    },
+    {
+        "id": 128,
+        "offset": 530772,
+        "slot_size": 59,
+        "font": 2,
+        "texte_orig": "Mystic Morgan:  Humph! You youngsters take me  for a fool!<END>",
+        "texte_fr": "Morgan: Humph! Vous me prenez\npour un imbecile?!<END>"
+    },
+    {
+        "id": 129,
+        "offset": 530831,
+        "slot_size": 42,
+        "font": 2,
+        "texte_orig": "Mystic Morgan:  I'll teach you!  Come on!<END>",
+        "texte_fr": "Morgan: Je te donne une\nlecon! Viens!<END>"
+    },
+    {
+        "id": 130,
+        "offset": 530873,
+        "slot_size": 19,
+        "font": 2,
+        "texte_orig": "Belzoff:  Stop it!<END>",
+        "texte_fr": "Belzoff: Assez!<END>"
+    },
+    {
+        "id": 131,
+        "offset": 530892,
+        "slot_size": 45,
+        "font": 2,
+        "texte_orig": "Belzoff:  I understand  your disappointment.<END>",
+        "texte_fr": "Belzoff: Je comprends votre\ndeception.<END>"
+    },
+    {
+        "id": 132,
+        "offset": 530937,
+        "slot_size": 78,
+        "font": 2,
+        "texte_orig": "Belzoff:  I am also deeply disappointed.  That is why we must win  this year!<END>",
+        "texte_fr": "Belzoff: Moi aussi je suis\ntres decu. Il faudra donc\ngagner cette annee!<END>"
+    },
+    {
+        "id": 133,
+        "offset": 531015,
+        "slot_size": 50,
+        "font": 2,
+        "texte_orig": "Belzoff:  The Jack Brothers shall feel  our fury!<END>",
+        "texte_fr": "Belzoff: Les Freres Jack vont\nsubir notre fureur!<END>"
+    },
+    {
+        "id": 134,
+        "offset": 531065,
+        "slot_size": 39,
+        "font": 2,
+        "texte_orig": "Belzoff:  Down with the Jack Brothers!<END>",
+        "texte_fr": "Belzoff: A bas les Freres\nJack!<END>"
+    },
+    {
+        "id": 135,
+        "offset": 531104,
+        "slot_size": 17,
+        "font": 2,
+        "texte_orig": "Monsters:  Yeah!<END>",
+        "texte_fr": "Monstres: Ouais!<END>"
+    },
+    {
+        "id": 136,
+        "offset": 8234,
+        "slot_size": 12,
+        "font": 1,
+        "texte_orig": "FLOOR SELECT<END>",
+        "texte_fr": "CHOIX ETAGE<END>"
+    },
+    {
+        "id": 137,
+        "offset": 8305,
+        "slot_size": 4,
+        "font": 1,
+        "texte_orig": "EXIT<END>",
+        "texte_fr": "FIN<END>"
+    },
+    {
+        "id": 138,
+        "offset": 8310,
+        "slot_size": 13,
+        "font": 1,
+        "texte_orig": "SELECT BUTTON<END>",
+        "texte_fr": "BTN SELECT<END>"
+    },
+    {
+        "id": 139,
+        "offset": 8324,
+        "slot_size": 10,
+        "font": 1,
+        "texte_orig": "IPD ADJUST<END>",
+        "texte_fr": "AJUST IPD<END>"
+    },
+    {
+        "id": 140,
+        "offset": 119233,
+        "slot_size": 10,
+        "font": 1,
+        "texte_orig": "SOUND TEST<END>",
+        "texte_fr": "TEST SON<END>"
+    },
+    {
+        "id": 141,
+        "offset": 961848,
+        "slot_size": 4,
+        "font": 1,
+        "texte_orig": "AUTO",
+        "texte_fr": "AUTO"
+    },
+    {
+        "id": 142,
+        "offset": 961856,
+        "slot_size": 5,
+        "font": 1,
+        "texte_orig": "PAUSE",
+        "texte_fr": "PAUSE"
+    }
+]
