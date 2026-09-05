@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Version-1.0_Finale-emerald?style=flat-square" alt="Version" />
 <img src="https://img.shields.io/badge/Statut-100%25_Jouable-blue?style=flat-square" alt="Statut" />
 <a href="https://github.com/chenetulipe/JackBros-FR-VB/releases"><img src="https://img.shields.io/badge/Releases-Télécharger_le_patch-purple?style=flat-square" alt="Releases" /></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/Licence-GPL--3.0-lightgrey?style=flat-square" alt="Licence" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/Licence-CC BY-NC-SA 4.0-lightgrey?style=flat-square" alt="Licence" /></a>
 
 <br/><br/>
 
